@@ -1,0 +1,11 @@
+main {
+  
+  background: blue;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+main div {
+  margin: auto;
+}
