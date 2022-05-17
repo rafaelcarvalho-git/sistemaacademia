@@ -7,5 +7,7 @@ main {
 }
 
 main div {
-  margin: auto;
+  margin: auto; 
+  background: red;
+
 }
